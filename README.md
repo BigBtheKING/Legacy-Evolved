@@ -5,11 +5,8 @@ This game is being developed by EquinoxTech with support from DarkNights.
 
 Developers:
 
->Chemicxlkid (Founder)
->YoungPeelz (Story Design)
->KillerDragon (Research And Development)
->JangoMaX (Analytics)
->BreakHD (Beta Tester & Story Design)
+Chemicxlkid (Founder)
+BreakHD (Beta Tester & Story Design)
 
 Story Line:
 
