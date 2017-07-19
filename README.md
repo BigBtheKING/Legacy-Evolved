@@ -4,11 +4,13 @@ A Choose your fate type of game that will be ran from command prompt and will in
 This game is being developed by EquinoxTech with support from DarkNights.
 
 Developers:
-...................
->Chemicxlkid (Story Development and Structural Development)
-..................
->Nate (Story Development)
-..................
+>
+Chemicxlkid (Story Development and Structural Development)
+>
+........................
+>
+Nate (Story Development)
+>
 
 Story Line:
 
