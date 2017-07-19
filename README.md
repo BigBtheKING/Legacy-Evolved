@@ -6,7 +6,6 @@ This game is being developed by EquinoxTech with support from DarkNights.
 Developers:
 
 >Chemicxlkid (Story Development and Structural Development)
-........................
 >
 >Nate (Story Development)
 >
